@@ -1,6 +1,9 @@
 # PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI
 Explore image reconstruction using PCA, Probabilistic PCA, and Variational Autoencoders on the MNIST dataset. Compare results and analyze MSE for different latent variable dimensions.
 
+# Original Images :
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/bc771e27-2d1f-4dd1-b892-8d327685a8fc)
+
 
 # PCA Results : 
 
