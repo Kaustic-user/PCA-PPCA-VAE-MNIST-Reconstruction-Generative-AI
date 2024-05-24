@@ -73,14 +73,26 @@ MSE : 0.009891302385905174
 
 
 # Variational Autoencoders Results : 
-Latent dim = 2 , MSE : 0.041423775255680084
-Latent dim = 4 , MSE : 0.03009536862373352
-Latent dim = 8 , MSE : 0.019602710381150246
-Latent dim = 16 , MSE : 0.014031622558832169
-Latent dim = 32 , MSE : 0.013340936042368412
-Latent dim = 64 , MSE : 0.014063646085560322
+Latent dim = 2 , MSE : 0.041423775255680084<br>
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/bbf9153b-b419-43aa-990e-b899543296ea)
 
-![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/2f332dc3-c870-470e-8da3-8d7ade3afe29)
+Latent dim = 4 , MSE : 0.03009536862373352<br>
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/090e1632-b425-4b41-81eb-7f17dab1032e)
+
+Latent dim = 8 , MSE : 0.019602710381150246<br>
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/20151232-c871-425d-884f-76a559960ce6)
+
+Latent dim = 16 , MSE : 0.014031622558832169<br>
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/2b99b923-d155-4403-a30e-d554d4a920e2)
+
+Latent dim = 32 , MSE : 0.013340936042368412<br>
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/dc0ff8b4-8010-46e8-a11b-36b9d0118dc5)
+
+Latent dim = 64 , MSE : 0.014063646085560322<br>
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/be73c61e-d1b2-4d8b-9522-9c7fa3914ada)
+
+
+
 
 ![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/4b0d1ae8-cd72-476a-8591-35902b78c596)
 
