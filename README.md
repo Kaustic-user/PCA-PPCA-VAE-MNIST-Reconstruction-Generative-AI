@@ -36,4 +36,6 @@ Latent dimension : 64<br>
 MSE : 0.009049062617123127
 ![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/547e20f3-6526-4777-a8f0-136bb4cbacf3)
 
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/16dfebbd-ea65-4cd2-9fe1-a0600010bfcc)
+
 
