@@ -38,4 +38,42 @@ MSE : 0.009049062617123127
 
 ![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/16dfebbd-ea65-4cd2-9fe1-a0600010bfcc)
 
+# Probabilistic PCA Results : 
+
+Latent dimension : 2<br>
+MSE : 0.05567565094631961
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/6057393d-e8e0-4c80-9864-5682410343c0)
+
+
+Latent dimension : 4<br>
+MSE : 0.047915338584666275
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/e67a6cd8-6ebf-4992-ad03-2ffae701fed8)
+
+
+Latent dimension : 8<br>
+MSE : 0.03746756696191753
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/6f046771-af5b-4bc0-9764-d691e0d89606)
+
+
+Latent dimension : 16<br>
+MSE : 0.026933876311246663
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/b1356cfb-80be-4bea-8125-922b67db808c)
+
+
+Latent dimension : 32<br>
+MSE : 0.017048652192219616
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/35fd9f41-4dc3-4226-b8a7-50590e500530)
+
+
+Latent dimension : 64<br>
+MSE : 0.009891302385905174
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/d6e94708-bd5c-4710-b777-22e503345a60)
+
+![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/e051d9bf-4635-4fd7-a0a7-594992d51925)
+
+
+
+
+
+
 
