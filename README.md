@@ -5,6 +5,7 @@ Explore image reconstruction using PCA, Probabilistic PCA, and Variational Autoe
 # PCA Results : 
 
 latent: 2
+
 MSE : 0.055669430643320084
 ![image](https://github.com/Kaustic-user/PCA-PPCA-VAE-MNIST-Reconstruction-Generative-AI/assets/118257539/948aa318-1efc-44fa-81fc-b6be6d7b3138)
 
